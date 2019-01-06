@@ -1,0 +1,22 @@
+<annotation>
+	<forder>数据集名称</folder>
+	<filename>KA.jpg</filename>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Frontal</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>191</ymin>
+			<xmax>177</xmax>
+			<ymax>75</ymax>
+		<bndbox>
+	</object>
+</annotation>
